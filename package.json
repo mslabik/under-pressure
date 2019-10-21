@@ -35,7 +35,7 @@
     "simple-get": "^3.0.3",
     "snazzy": "^8.0.0",
     "standard": "^14.0.0",
-    "tap": "^14.2.4",
+    "tap": "^14.8.0",
     "typescript": "^3.6.2"
   },
   "engines": {
